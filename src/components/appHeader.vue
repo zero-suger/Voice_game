@@ -9,7 +9,7 @@ export default {
   name: 'appHeader',
   data(){
       return{
-          title:"Welcome to the CodingNewBie"
+          title:"Welcome to the CodingNewBie "
       }
   },
   methods:{
@@ -19,7 +19,7 @@ export default {
 }
 </script>
 
-<!-- Add "scoped" attribute to limit CSS to this component only -->
+
 <style scoped>
 h1{
     padding: 25px;
